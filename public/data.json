@@ -1,0 +1,163 @@
+[
+    {
+      "id": 1,
+      "name": "Spaghetti Carbonara",
+      "category": "Pasta",
+      "image": "https://example.com/images/spaghetti-carbonara.jpg",
+      "price": 12.99,
+      "shortDescription": "Classic Italian pasta dish with pancetta and Parmesan cheese."
+    },
+    {
+      "id": 2,
+      "name": "Chicken Alfredo Pasta",
+      "category": "Pasta",
+      "image": "https://example.com/images/chicken-alfredo.jpg",
+      "price": 13.50,
+      "shortDescription": "Creamy pasta dish with grilled chicken and Parmesan cheese."
+    },
+    {
+      "id": 3,
+      "name": "Vegetable Stir Fry",
+      "category": "Asian",
+      "image": "https://example.com/images/vegetable-stir-fry.jpg",
+      "price": 11.50,
+      "shortDescription": "Assorted vegetables stir-fried in a savory soy sauce."
+    },
+    {
+      "id": 4,
+      "name": "Margherita Pizza",
+      "category": "Pizza",
+      "image": "https://example.com/images/margherita-pizza.jpg",
+      "price": 10.99,
+      "shortDescription": "Traditional Italian pizza with tomatoes, mozzarella, and basil."
+    },
+    {
+      "id": 5,
+      "name": "Classic Cheeseburger",
+      "category": "Burgers",
+      "image": "https://example.com/images/cheeseburger.jpg",
+      "price": 9.99,
+      "shortDescription": "Juicy beef patty with American cheese, lettuce, and tomato."
+    },
+    {
+      "id": 6,
+      "name": "Crispy Chicken Sandwich",
+      "category": "Burgers",
+      "image": "https://example.com/images/chicken-sandwich.jpg",
+      "price": 10.99,
+      "shortDescription": "Fried chicken breast with lettuce, mayo, and pickles on a toasted bun."
+    },
+    {
+      "id": 7,
+      "name": "Tiramisu",
+      "category": "Desserts",
+      "image": "https://example.com/images/tiramisu.jpg",
+      "price": 6.99,
+      "shortDescription": "Classic Italian dessert made with coffee-soaked ladyfingers and mascarpone cheese."
+    },
+    {
+      "id": 8,
+      "name": "Spring Rolls",
+      "category": "Appetizers",
+      "image": "https://example.com/images/spring-rolls.jpg",
+      "price": 7.99,
+      "shortDescription": "Crispy vegetable spring rolls served with sweet chili sauce."
+    },
+    {
+      "id": 9,
+      "name": "Loaded Fries",
+      "category": "Appetizers",
+      "image": "https://example.com/images/loaded-fries.jpg",
+      "price": 6.99,
+      "shortDescription": "Golden fries topped with melted cheese, bacon, and green onions."
+    },
+    {
+      "id": 10,
+      "name": "Chocolate Chip Cookies",
+      "category": "Desserts",
+      "image": "https://example.com/images/chocolate-chip-cookies.jpg",
+      "price": 7.50,
+      "shortDescription": "Homemade cookies loaded with semisweet chocolate chips."
+    },
+    {
+      "id": 11,
+      "name": "Mango Salsa",
+      "category": "Appetizers",
+      "image": "https://example.com/images/mango-salsa.jpg",
+      "price": 5.99,
+      "shortDescription": "Fresh salsa made with ripe mangoes, red onions, and cilantro."
+    },
+    {
+      "id": 12,
+      "name": "Greek Salad",
+      "category": "Salads",
+      "image": "https://example.com/images/greek-salad.jpg",
+      "price": 8.50,
+      "shortDescription": "Refreshing salad with cherry tomatoes, cucumber, olives, and feta cheese."
+    },
+    {
+      "id": 13,
+      "name": "Chicken Teriyaki",
+      "category": "Asian",
+      "image": "https://example.com/images/chicken-teriyaki.jpg",
+      "price": 13.50,
+      "shortDescription": "Grilled chicken glazed with teriyaki sauce, served with steamed rice."
+    },
+    {
+      "id": 14,
+      "name": "BBQ Ribs",
+      "category": "Main Course",
+      "image": "https://example.com/images/bbq-ribs.jpg",
+      "price": 16.99,
+      "shortDescription": "Tender and juicy BBQ ribs seasoned and grilled to perfection."
+    },
+    {
+      "id": 15,
+      "name": "Caesar Salad",
+      "category": "Salads",
+      "image": "https://example.com/images/caesar-salad.jpg",
+      "price": 9.50,
+      "shortDescription": "Classic salad with romaine lettuce, croutons, Parmesan cheese, and Caesar dressing."
+    },
+    {
+      "id": 16,
+      "name": "Beef Tacos",
+      "category": "Mexican",
+      "image": "https://example.com/images/beef-tacos.jpg",
+      "price": 12.99,
+      "shortDescription": "Soft tortillas filled with seasoned beef, lettuce, cheese, and salsa."
+    },
+    {
+      "id": 17,
+      "name": "Shrimp Tempura",
+      "category": "Asian",
+      "image": "https://example.com/images/shrimp-tempura.jpg",
+      "price": 14.50,
+      "shortDescription": "Crispy shrimp tempura served with dipping sauce."
+    },
+    {
+      "id": 18,
+      "name": "Lemon Garlic Roast Chicken",
+      "category": "Main Course",
+      "image": "https://example.com/images/roast-chicken.jpg",
+      "price": 15.99,
+      "shortDescription": "Juicy roast chicken seasoned with lemon and garlic."
+    },
+    {
+      "id": 19,
+      "name": "Vegetarian Pizza",
+      "category": "Pizza",
+      "image": "https://example.com/images/vegetarian-pizza.jpg",
+      "price": 11.99,
+      "shortDescription": "Delicious pizza topped with assorted vegetables and mozzarella cheese."
+    },
+    {
+      "id": 20,
+      "name": "Fruit Salad",
+      "category": "Desserts",
+      "image": "https://example.com/images/fruit-salad.jpg",
+      "price": 6.50,
+      "shortDescription": "Fresh fruit salad with a mix of seasonal fruits."
+    }
+  ]
+  
